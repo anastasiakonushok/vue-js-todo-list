@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+}
+.wrapp {
+  margin: 100px auto;
+  width: 30%;
+  background:#fff;
+  padding: 30px;
+  border-radius:5px;
+}
+.flex {
+  display:flex;
+}
